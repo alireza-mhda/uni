@@ -14,10 +14,9 @@ def print_triangle(n):
 
 entered_number = int(input("Enter a number greater than 2: "))
 
-
 if (entered_number < 3):
   while (entered_number < 3):
-    print("Entered number must be equal or greater than 3!")
+    print("Entered number must be greater than 2!")
     entered_number = int(input("Enter a number (n >= 3):"))
     if (entered_number >= 3):
       print_triangle(entered_number)

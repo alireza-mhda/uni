@@ -10,9 +10,3 @@ def n_words(str, n):
 
 
 n_words("my name is amir and i love python", 4)
-
-# Output
-"""
-3 words have length 4:
-name, amir, love
-"""

@@ -24,8 +24,3 @@ def reverse3(str):
 reverse1('amir')
 reverse2('amir')
 reverse3('amir')
-
-# Output
-"""
-rima
-"""
